@@ -1,16 +1,13 @@
-## Hi there 👋
+Hola 👋 Mi nombre es Antonio Corraliza ============================================= Programador Python ------------------ Con 16 años de experiencia en el sector dinámico del transporte, donde se ha destacado en roles como repartidor y jefe de tráfico, esta persona ha iniciado una emocionante transición profesional. Durante los últimos tres años, ha dedicado su tiempo a profundizar en el mundo de la programación, comenzando con Python. Su formación incluye un certificado de nivel básico PCEP en Python obtenido en 2023, y el certificado de nivel avanzado PCAP en 2025. Esta combinación de una sólida experiencia operativa y una creciente habilidad técnica lo posiciona de manera única para abordar desafíos desde una perspectiva innovadora. * 🌍Estoy radicado en España * 🖥️ Ver mi portafolio en [Mi portafolio](http://antoniocorraliza.pythonanywhere.com/)[](http://antoniocorraliza.pythonanywhere.com/) * ✉️ Puedes contactarme en [corraliza81@hotmail.com](mailto:corraliza81@hotmail.com)[](mailto:corraliza81@hotmail.com) * 🧠 Estoy aprendiendo SQL y algo más de Python * ⚡ Por cierto me encantan los videojuegos y la F1
 
-<!--
-**antonio-corraliza/Antonio-Corraliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Habilidades
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a> <a <a href="https://developer.mozilla.org/en-US/docs/Glosario/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a> <a href="https://www.postgresql.org/" <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="PostgreSQL" title ="PostgreSQL"/></a>
+</p>
+
+
+### Redes sociales
+
+<p align="left"> </p> <a href="https://www.github.com/antonio-corraliza" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/antonio-miguel-corraliza-cervilla-55187a272/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
