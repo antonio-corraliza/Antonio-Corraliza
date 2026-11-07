@@ -1,12 +1,12 @@
 # ¡Hola! Soy Antonio 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Soy estudiante de Máster centrado en **Data Science** y **Machine Learning**, apasionado por el desarrollo en entorno Linux y la resolución de problemas técnicos.
+¡Bienvenido/a a mi perfil de GitHub! Soy estudiante de Máster centrado en **Deep Learnig** y **Machine Learning**, apasionado por el desarrollo en entorno Linux y la resolución de problemas técnicos.
 
 ---
 
 ### 🚀 Sobre mí
 - 🎓 Actualmente trabajando en mi **Trabajo Fin de Máster (TFM)** sobre modelos de clasificación de riesgo crediticio.
-- 🐍 Preparando la certificación **Python PCPP1** y profundizando en patrones de diseño y desarrollo de software.
+- 🐍 Preparando la certificación **Python PCPP1** y profundizando en desarrollo de software.
 - 🐧 Usuario y entusiasta del software libre y de entornos **Linux** nativos (Ubuntu).
 - 📊 Interesado en la ciencia de datos, aprendizaje automático e interpretabilidad de modelos.
 
