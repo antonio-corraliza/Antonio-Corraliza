@@ -24,9 +24,9 @@
 
 ### 📈 Estadísticas de GitHub
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=antonio-corraliza&show_icons=true&theme=tokyonight)
+[Mis estadísticas] (https://github-readme-stats.vercel.app/api?username=antonio-corraliza&show_icons=true&theme=tokyonight)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-corraliza&layout=compact&theme=tokyonight)
+[Lenguajes más usados] (https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-corraliza&layout=compact&theme=tokyonight)
 
 ---
 
